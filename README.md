@@ -4,8 +4,10 @@ Developer Backend | Python, C#, java, Data Analysis.
 # ☄️ About Me:
 Graduate in Systems and Programming with a postgraduate specialization in networks and telecommunications, I have already been practicing my career in programming for 2 years, focused on web app and relational databases as well as relations In the same way, I have worked with micro servers. I also have advanced knowledge in server administration.
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/1xxramexx1?utm_source=qr&igsh=MTh0ZW0xNHY4cXRpaQ==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/theyam-matos-75179b185) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@theyammatos5724) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/1xxramexx1?utm_source=qr&igsh=MTh0ZW0xNHY4cXRpaQ==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/theyam-matos-75179b185) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@theyammatos5724) 
 [![Gmail](https://img.shields.io/badge/Gmail-%f0e3eeb.svg?logo=Gmail&logoColor=Red)](mailto:theyammatos@gmail.com)
+[![Whatsapp](https://img.shields.io/badge/Whatsapp-%230077B5.svg?logo=Whatsapp&logoColor=Blue)](https://wa.me/+50762672029?text=Hola)
 # 🛠 Projects carried out:
  
 <li>Web app developer using <strong>HTML, CSS</strong></li>
